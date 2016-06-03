@@ -2,8 +2,8 @@
 
 ### Team Members
 Lauren Miller
-Matt Mayberry
-Collin Dorsett
+ / Matt Mayberry
+ / Collin Dorsett
 
 ### Files
 	TSP.cpp
