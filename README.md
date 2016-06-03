@@ -6,6 +6,7 @@ Lauren Miller
 
 ### Files
 	TSP.cpp
+    TSP
     tsp_example_1.txt
     tsp_example_2.txt
     tsp_example_3.txt
