@@ -27,7 +27,7 @@ Lauren Miller
     test-input-6.txt.tour
     test-input-7.txt.tour
     README.md
-    CS325_Group34_Project4T_TSP.pdf
+    CS325_Group34_Project4_TSP.pdf
     tsp-verifier.py
     TSPAllVisited.py
     TSPAllVisited.pyc
